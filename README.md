@@ -39,18 +39,18 @@ public class Program
 $ dotnet build
 ```
 ```
-$ dotnet bin/Debug/net6.0/boost.dll --help
+$ dotnet bin/Debug/net6.0/Example.dll --help
 help (h):
 ```
 ```
-$ dotnet bin/Debug/net6.0/boost.dll --help=AValue
+$ dotnet bin/Debug/net6.0/Example.dll --help=AValue
 help (h): AValue
 ```
 ```
-$ dotnet bin/Debug/net6.0/boost.dll -h
+$ dotnet bin/Debug/net6.0/Example.dll -h
 help (h):
 ```
 ```
-$ dotnet bin/Debug/net6.0/boost.dll -h=AValue
+$ dotnet bin/Debug/net6.0/Example.dll -h=AValue
 help (h): AValue
 ```
